@@ -36,8 +36,6 @@ Usando a técnica de Transfer Learning para treinar uma nova rede para classific
 
 - ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) para desenvolvimento e execução do notebook.
 
----
-
 ## 📑 Tópicos Abordados
 
 1. **🎯 Objetivo**
