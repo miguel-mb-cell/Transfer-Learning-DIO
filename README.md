@@ -1,4 +1,4 @@
-# 🐶🐱 Transfer Learning com VGG16 e Dataset de Cães e Gatos
+# Transfer Learning com VGG16 🧠 e Dataset de Cães e Gatos🐶🐱 
 
 Bem vindo ao meu estudo sobre Transfer Learning! 📚
 
