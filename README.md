@@ -13,6 +13,31 @@ Usando a técnica de Transfer Learning para treinar uma nova rede para classific
   <img src="/imgs/dataset.png" alt="Dataset"  height=500px width=650px/>
 </div>
 
+## 🛠️ Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+
+### Stack de Tecnologias
+
+1. **Linguagem de Programação:**
+   - ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=white) Python
+
+2. **Bibliotecas e Frameworks:**
+   - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) TensorFlow
+   - ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) Keras
+   - ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) NumPy
+   - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) Matplotlib
+
+### Outras Ferramentas
+
+- ![Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=google-colab&logoColor=white) para desenvolvimento e execução do notebook.
+
+---
+
 ## 📑 Tópicos Abordados
 
 1. **🎯 Objetivo**
