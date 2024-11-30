@@ -66,9 +66,10 @@ Usando a técnica de Transfer Learning para treinar uma nova rede para classific
    - Sumário dos principais achados e implicações do estudo.
 
 10. **💻 Teste você mesmo**
-    - Para poder executar e editar as células do notebook, dentro do arquivo, clique em "Arquivo" na barra de ferramentas e em "Salvar uma cópia no Drive". Na seção "Teste o modelo você mesmo!" troque a url da imagem para ver se o modelo consegue classifica-la corretamente.
+    - Passe uma imagem de gato ou cachorro por url para testar o modelo!
+>ℹ️ Para poder executar e editar as células do notebook, dentro do arquivo, clique em "Arquivo" na barra de ferramentas e em "Salvar uma cópia no Drive".
 
-11. **📚 Referências**
+12. **📚 Referências**
     - Lista de materiais e fontes utilizados para o estudo.
 
 
