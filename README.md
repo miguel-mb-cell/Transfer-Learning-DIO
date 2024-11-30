@@ -7,8 +7,9 @@ Neste estudo é usada a rede [VGG16](https://keras.io/api/applications/vgg/#vgg1
   <img src="/imgs/estrutura_vgg16.png" alt="Arquitetura VGG16" height=500px width=650px/>
 </div>
 <br>
-Usando a técnica de Transfer Learning para treinar uma nova rede para classificar um dataset de cães e gatos!
-<br><br>
+
+Usando a técnica de Transfer Learning para treinar uma nova rede para classificar um [dataset de cães e gatos!](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
+<br>
 <div align="center">
   <img src="/imgs/dataset.png" alt="Dataset"  height=500px width=650px/>
 </div>
@@ -89,7 +90,7 @@ Essa tabela é o resultado obtido com o treinamento do novo modelo criado a part
 | 9/10  | 0.8372   | 0.4468  | 0.7867        | 0.4261     |
 | 10/10 | 0.8582   | 0.4156  | 0.8400        | 0.4085     |
 
-Cerca de **85%** de acurácia!
+🎉Cerca de **85%** de acurácia!🎉
 
 ## 🔍 Confira os detalhes
-Confira em detalhes o estudo feito no Google Colab: [Transfer Learning](https://colab.research.google.com/drive/1iAtTVHvMrdut0jFS-CVh09KbLHI5B9xY?usp=sharing).
+Confira em detalhes como esses resultados podem ser facilmente alcançados no meu notebook: [Transfer Learning](https://colab.research.google.com/drive/1iAtTVHvMrdut0jFS-CVh09KbLHI5B9xY?usp=sharing).
