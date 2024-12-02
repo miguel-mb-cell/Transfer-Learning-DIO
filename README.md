@@ -90,7 +90,7 @@ Essa tabela é o resultado obtido com o treinamento do novo modelo criado a part
 | 9/10  | 0.8372   | 0.4468  | 0.7867        | 0.4261     |
 | 10/10 | 0.8582   | 0.4156  | 0.8400        | 0.4085     |
 
-🎉Cerca de **85%** de acurácia!🎉
+🎉Foram usadas apenas 500 imagens do dataset, mesmo assim foi alcançado **85%** de acurácia!🎉
 
 ## 🔍 Confira os detalhes
 Confira em detalhes como esses resultados podem ser facilmente alcançados no meu notebook: [Transfer Learning](https://colab.research.google.com/drive/1iAtTVHvMrdut0jFS-CVh09KbLHI5B9xY?usp=sharing).
